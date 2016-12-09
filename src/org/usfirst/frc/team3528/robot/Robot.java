@@ -97,7 +97,7 @@ public class Robot extends SampleRobot {
             
             if (stick.getRawButton(2)){
             	//System.out.println("B button pressed");
-            	
+            	//pchooo
             	shifter.set(DoubleSolenoid.Value.kReverse);
             }
             
